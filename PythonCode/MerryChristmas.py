@@ -1,0 +1,2 @@
+#MerryChristmas
+print("Merry Christmas!")
